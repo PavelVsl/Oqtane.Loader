@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oqtane.Loader", "Oqtane.Loader\Oqtane.Loader.csproj", "{2F595658-B3F6-4267-9B28-F4E080CB4689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oqtane.Client", "..\oqtane.framework\Oqtane.Client\Oqtane.Client.csproj", "{AE6976BD-FE31-46A1-B4CF-D20D7919B1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oqtane.Server", "..\oqtane.framework\Oqtane.Server\Oqtane.Server.csproj", "{3999BBCF-A9BD-4919-BB30-865AC51238D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oqtane.Shared", "..\oqtane.framework\Oqtane.Shared\Oqtane.Shared.csproj", "{76D579DA-ED59-4BD9-A590-A228C636B9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F595658-B3F6-4267-9B28-F4E080CB4689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F595658-B3F6-4267-9B28-F4E080CB4689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F595658-B3F6-4267-9B28-F4E080CB4689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F595658-B3F6-4267-9B28-F4E080CB4689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6976BD-FE31-46A1-B4CF-D20D7919B1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6976BD-FE31-46A1-B4CF-D20D7919B1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6976BD-FE31-46A1-B4CF-D20D7919B1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6976BD-FE31-46A1-B4CF-D20D7919B1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3999BBCF-A9BD-4919-BB30-865AC51238D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3999BBCF-A9BD-4919-BB30-865AC51238D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3999BBCF-A9BD-4919-BB30-865AC51238D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3999BBCF-A9BD-4919-BB30-865AC51238D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D579DA-ED59-4BD9-A590-A228C636B9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D579DA-ED59-4BD9-A590-A228C636B9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D579DA-ED59-4BD9-A590-A228C636B9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D579DA-ED59-4BD9-A590-A228C636B9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
