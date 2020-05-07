@@ -1,0 +1,35 @@
+﻿/* Oqtane Styles */
+
+body {
+    padding-top: 7rem;
+}
+
+.app-menu .nav-item {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+.app-menu .nav-item a {
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+}
+
+.app-menu .nav-item a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.app-menu .nav-item a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.app-menu .nav-link .oi {
+    width: 1.5rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
