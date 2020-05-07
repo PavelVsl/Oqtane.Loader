@@ -10,3 +10,6 @@ Place repository to same folder as oqtane repository:
 * repositories
   - oqtane.framework
   - oqtane.loader 
+
+Open Oqtane.Loader.sln
+Enjoy
